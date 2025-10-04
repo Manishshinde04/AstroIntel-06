@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+pydantic
+sentence-transformers
+scikit-learn
+numpy
+python-dotenv
+Jinja2
+matplotlib
